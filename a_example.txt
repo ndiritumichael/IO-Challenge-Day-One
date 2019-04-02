@@ -1,0 +1,6 @@
+4
+H 3 cat beach sun
+V 2 selfie smile
+V 2 garden selfie
+H 2 garden cat
+writing a simple java program that reads the content of a file(.txt) and loops through each character calculating its frequency. I am saving the results using a Hashmap and I am able to display the entry set without a problem. However, I would like to display the results in a clearer way using a table. I have done th
